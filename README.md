@@ -40,7 +40,7 @@ $$
   
   subject to flow conservation and capacity constraints.  
 
-<img src="Final_Project/report/network1.png" alt="Traffic Network" width="600" height="auto"/>
+<img src="Final_Project/report/traffic_network.png" alt="Traffic Network" width="600" height="auto"/>
 
 
 #### 📌 Tasks  
