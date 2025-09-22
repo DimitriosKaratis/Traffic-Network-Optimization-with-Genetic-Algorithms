@@ -5,7 +5,7 @@ This repository contains the implementation of the **final project** from the *O
 The project focuses on applying **Genetic Algorithms (GA)** to a **real-world inspired traffic network optimization problem**, aiming to **minimize total travel time under congestion** while respecting road capacities and flow conservation.  
 
 
----
+--- 
 
 ### 🧬 **Project 4 – Genetic Algorithms (Traffic Network Optimization)**  
 
